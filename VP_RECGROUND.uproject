@@ -43,6 +43,14 @@
 		{
 			"Name": "LiveLinkLens",
 			"Enabled": true
+		},
+		{
+			"Name": "TimedDataMonitor",
+			"Enabled": true
+		},
+		{
+			"Name": "CameraCalibration",
+			"Enabled": true
 		}
 	]
 }
